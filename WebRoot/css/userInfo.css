@@ -1,0 +1,5 @@
+.emp_info li{list-style: none}
+#left,#right{width: 49%;float: left}
+#left{border-right: #999 solid 1px}
+ul{padding-left:205px}
+p{margin: 50px auto;text-align: center;font:30px/28px 宋体 }

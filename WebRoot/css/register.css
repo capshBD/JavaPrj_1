@@ -1,0 +1,17 @@
+body {
+	font-size: 62.5%;
+}
+
+table {
+	font-size: 1em;
+}
+
+/* Site
+   -------------------------------- */
+
+body {
+	font-family: "Trebuchet MS", "Helvetica", "Arial",  "Verdana", "sans-serif";
+}
+#main{width: 980px;height: 500px;background:url(../img/reg_bg.gif) no-repeat;margin: auto}
+#form{padding-top: 70px;padding-left: 80px}
+.proto{padding-left: 100px;font-size: 100%}

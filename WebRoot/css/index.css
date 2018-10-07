@@ -1,0 +1,45 @@
+body{ margin:0px; padding:0px; font-family:"宋体"}
+ul{list-style: none;margin:0px;padding:0px}
+li{float: left;line-height: 30px;width: 90px}
+iframe{width:100%;border:#CCC 3px}
+#main{width:100%;height: 800px}
+#header{width:980px;height:150px;background: url(../img/h_bg.jpg);margin: auto}
+#sys_menu{width: 420px;height: 29px;float: right;padding-top:6px}
+#wel{ 
+	   width:250px;
+	   height:25px;
+	   background-color:#Ff0; 
+	   clear:right; 
+	   float:right;
+	   margin:10px;
+	   padding-top:5px;
+	   text-align: center
+	}
+#fun_menu{
+	   width:970px;
+	   height:35px;
+	   clear:both;
+	   padding-top:14px;
+	   padding-left:22px;
+	   text-align:center
+	   }
+#search{
+		float:right;
+		padding-right:10px;
+		padding-top:1px
+}
+#center{width:100%;height: 650px}
+#menu_layout li{width:84px;font-size:19px}
+.sys_link{color: #F0C;text-decoration:blink; font-size:14px; display:block}
+.sys_link:hover{color:#30F; font-size:12px;background-image:none}
+.fun_link{color:#FFF; text-decoration:blink; display:block}
+.fun_link:hover{color:#30F;background-image:url(../img/nav_bg.gif); background-position:0px 10px}
+.sys_m1,.sys_m2{height:26px;width:30px;}
+.sys_m1{background-image:url(../img/icon.gif);background-position:-30px 0px}
+.sys_m2{background-image:url(../img/icon.gif);background-position:-55px 0px}
+.sys_logout{background-image:url(../img/icon.gif);
+			background-position: -1px -24px;
+			width: 48px;
+			height: 24px;
+			text-align: center
+			}
